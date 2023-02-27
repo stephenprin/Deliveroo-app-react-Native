@@ -23,7 +23,33 @@ const Featured = ({description, title}) => {
               imgUrl="https://images6.alphacoders.com/938/938921.jpg"
               title= "Burger King"
               genre= "Burgers"
-              address="Burger King, 1234, 5th Avenue, New York, NY 10001" 
+              address="Burger King, 5th Avenue, Lagos" 
+              short_description="Burger King is an American global chain of hamburger fast food restaurants."
+              rating= {4.5}
+              dishes= {[]}
+              lat= {40.72}
+            lng={74.0060}
+            deliveryFee={2.99}
+              />
+               <ResturantCard
+              id={1}
+              imgUrl="https://images6.alphacoders.com/938/938921.jpg"
+              title= "Burger King"
+              genre= "Burgers"
+              address="Burger King, 5th Avenue, Lagos" 
+              short_description="Burger King is an American global chain of hamburger fast food restaurants."
+              rating= {4.5}
+              dishes= {[]}
+              lat= {40.72}
+            lng={74.0060}
+            deliveryFee={2.99}
+              />
+               <ResturantCard
+              id={1}
+              imgUrl="https://images6.alphacoders.com/938/938921.jpg"
+              title= "Burger King"
+              genre= "Burgers"
+              address="Burger King, 5th Avenue, Lagos" 
               short_description="Burger King is an American global chain of hamburger fast food restaurants."
               rating= {4.5}
               dishes= {[]}

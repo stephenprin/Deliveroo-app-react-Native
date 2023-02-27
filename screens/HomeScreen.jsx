@@ -38,7 +38,7 @@ export const HomeScreen = () => {
       <View  className="flex-row items-center space-x-2 px-3 pb-3">
           <View className="flex-row space-x-3 flex-1 bg-gray-300 p-2  item-center ">
             <MagnifyingGlassIcon  color="#EC830B"/>
-            <TextInput  placeholder="Search for restaurants or cuisines" className="text-sm font-bold w-100"/>
+            <TextInput  placeholder="Search for restaurants or cuisines" className="text-sm font-bold w-100" keyboardType='default'/>
           </View>
          <AdjustmentsHorizontalIcon color="#EC830B"/>
       </View>

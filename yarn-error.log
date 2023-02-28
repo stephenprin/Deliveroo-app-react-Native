@@ -1,5 +1,5 @@
 Arguments: 
-  /usr/local/bin/node /usr/local/bin/yarn add sanity@latest -- --coupon sonny2022
+  /usr/local/bin/node /usr/local/bin/yarn add @saniity/client @sanity/image-url
 
 PATH: 
   /usr/local/bin:/System/Cryptexes/App/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Library/Apple/usr/bin
@@ -14,7 +14,7 @@ Platform:
   darwin x64
 
 Trace: 
-  Error: https://registry.yarnpkg.com/--coupon: Not found
+  Error: https://registry.yarnpkg.com/@saniity%2fclient: Not found
       at params.callback [as _callback] (/usr/local/lib/node_modules/yarn/lib/cli.js:66145:18)
       at self.callback (/usr/local/lib/node_modules/yarn/lib/cli.js:140890:22)
       at Request.emit (node:events:513:28)
